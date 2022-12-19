@@ -1,0 +1,8 @@
+site_name: "springtwelve"
+site_description: "api rest to add 2 integers"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
